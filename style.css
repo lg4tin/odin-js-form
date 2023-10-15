@@ -17,8 +17,15 @@ form {
   margin-top: 100px;
 }
 
+input {
+  padding: 5px;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 2px 2px 2px black;
+}
+
 input[type="submit"] {
-  margin-top: 10px;
+  margin-top: 15px;
   height: 50px;
   cursor: pointer;
   background-color: blueviolet;
